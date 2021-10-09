@@ -13,9 +13,7 @@ Dependencies:
 	4. EMBOSS package
 
 Run miReader:
-	Graphical user interface (GUI)
-	Extract or unzip the miReader_Linux.tar.gz, to run miReader execute ./install (as root) from command line. After executing the command a binary named miReader  		will be created in the working directory. Double click on the binary to start miReader GUI. If the binary is working correctly a splash screen will appear, after few 		seconds the GUI of miReader will appear. Select input file, output folder and number of processors, also choose the model organism out of 6 organism by clicking on 		radiobutton.
-
+	
 Command line interface (CLI)
 	Extract miReader_Linux.tar.gz and execute “java -jar miReader_dicot.jar inputfile (can be in fasta format or in fastq format) output_folder_destination (/home/user/...) 	 number_of_processors” (without quotes). 
 	As miReader does not require any third party dependencies it can (theoretically) run on any system with Linux O.S having Java version > 5.
