@@ -1,0 +1,42 @@
+########################################
+# Program: stretcher
+# Rundate: Sat  9 Oct 2021 12:37:07
+# Commandline: stretcher
+#    -asequence re_align_1
+#    -bsequence re_align_2
+#    [-outfile] alignment
+#    -datafile EDNAFULL_matrix
+#    -awidth3 200
+#    -gapopen 15
+#    -gapextend 5
+# Align_format: markx0
+# Report_file: alignment
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: tmp-1.0
+# 2: seq-1.0
+# Matrix: EDNAFULL_matrix
+# Gap_penalty: 15
+# Extend_penalty: 5
+#
+# Length: 26
+# Identity:       8/26 (30.8%)
+# Similarity:    17/26 (65.4%)
+# Gaps:           1/26 ( 3.8%)
+# Score: 11
+# 
+#
+#=======================================
+
+               10        20      
+tmp-1. AAAAAATTAGTATGTTTGGGATGATC
+          : :..:.  :...::.. :. : 
+seq-1. TCTAGAGGATCCTTGGTGTT-TTTTT
+               10        20      
+
+
+#---------------------------------------
+#---------------------------------------
