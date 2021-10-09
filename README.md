@@ -38,8 +38,7 @@ Windows:
 	4. EMBOSS package
 
 Run miReader:
-	Graphical user interface (GUI)
-	Extract the miReader_windows.rar file double click on miReader and follow the above steps to choose input file output folder destination, number of processor and model 	species.
+	
 
 Command line interface (CLI)
 	Follow the above steps described to run CLI version of miReader in Linux.
@@ -67,11 +66,3 @@ miReader_result_folder is the same out folder which is chosen to run miReader. I
 "miReader_result" - final miReader result
 "temp_mapped_results_isomiRs" - mapped file containg the information of isomiRs
 "temp_mapped_results" - mapped result (will be used to calculate expresion)
-
-
-
-
-
-
-
-
