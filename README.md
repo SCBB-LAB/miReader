@@ -66,3 +66,7 @@ miReader_result_folder is the same out folder which is chosen to run miReader. I
 "miReader_result" - final miReader result
 "temp_mapped_results_isomiRs" - mapped file containg the information of isomiRs
 "temp_mapped_results" - mapped result (will be used to calculate expresion)
+
+
+
+Citation: Jha A, Shankar R (2013) miReader: Discovering Novel miRNAs in Species without Sequenced Genome. PLoS ONE 8(6): e66857. https://doi.org/10.1371/journal.pone.0066857
