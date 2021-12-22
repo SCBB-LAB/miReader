@@ -27,7 +27,7 @@ Command line interface (CLI)
 		e. miReader_fly.jar : model - Drosophila melanogaster
 		f. miReader_fish.jar : model - Danio rerio
 	2. small RNA-Seq reads file
-	3. output folder name
+	3. output folder name (please make sure the given directory exists)
 	4. #no. of processor
 
 
